@@ -86,8 +86,4 @@ ansible-playbook change_permission.yml -i hosts
 
 ---
 
-Copy
-Edit
-ansible-playbook app_install.yml -i hosts --check
-Use -v, -vv, or -vvv for verbose/debug output
 
